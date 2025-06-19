@@ -31,10 +31,12 @@ Electronic devices are key items in a pilot's kit. Based on the popular FlyMaste
 Whether you are sound designing for films, documentaries, video games or social media, this collection will add punch and detail to your soundtrack!
 
 ## Library Trailers
+
 - The Complete Paragliding Sound Effects Library: https://www.youtube.com/watch?v=caRWPf2Pi9c&t=1s
 - The Essential Paragliding Sound Effects Library: https://www.youtube.com/watch?v=gdxaab02OLQ
   
 ## Library Audio Demos
+
 - The Complete Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-complete-paragliding-sound-library
 - The Essential Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-essential-paragliding-library
 
