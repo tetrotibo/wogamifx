@@ -1,4 +1,4 @@
-# WOGAMIFX - Paragliding Sound FX Library Website
+# WOGAMIFX - Paragliding Sound Effects Library Website
 
 WOGAMIFX.com is a commercial website designed to showcase and sell two collections of paragliding sound effects for filmmakers, video game creators and audio professionals.
 
