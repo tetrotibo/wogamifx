@@ -47,4 +47,4 @@ Whether you are sound designing for films, documentaries, video games or social 
 
 ## Licensing
 Website, screenshots, and audio and video demos are all original works and protected.
-See LICENCE.txt for details regarding code and media usage rights.
+See [LICENSE.txt](https://github.com/tetrotibo/wogamifx/blob/main/LICENCE.txt) for details regarding code and media usage rights.
