@@ -6,14 +6,12 @@ being a sound designer and a paragliding pilot, I've edited a few paragliding do
 Built using Shopify and customized with EComposer, it combines responsive design, optimized browsing, and streamlined checkout.
 
 ## Video Demos
-- The Complete Paragliding Sound Effects Library: 
-- The Essential Paragliding Sound Effects Library:
-- 
+- The Complete Paragliding Sound Effects Library: https://www.youtube.com/watch?v=caRWPf2Pi9c&t=1s
+- The Essential Paragliding Sound Effects Library: https://www.youtube.com/watch?v=gdxaab02OLQ
+  
 ## Audio Demos
-- The Complete Paragliding Sound Effects Library: 
-- The Essential Paragliding Sound Effects Library: 
-
-
+- The Complete Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-complete-paragliding-sound-library
+- The Essential Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-essential-paragliding-library
 
 ## Built With
 
