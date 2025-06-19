@@ -8,9 +8,11 @@ Built using Shopify and customized with EComposer, it combines responsive design
 
 <img src="https://github.com/tetrotibo/wogamifx/blob/main/screenshots/a_site_01.png?raw=true" style="max-width: 100%;" alt="Homepage Screenshot">
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=gdxaab02OLQ">CHECK WEBSITE VIDEO DEMO</a>
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gdxaab02OLQ">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="CHECK WEBSITE VIDEO DEMO">
+  </a>
+</p>
 
 ## Library Presentation
 
