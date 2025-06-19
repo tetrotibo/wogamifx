@@ -7,13 +7,11 @@ Being a professional sound engineer and a paragliding pilot, I've sound designed
 Built using Shopify and customized with EComposer, it combines responsive design, optimized browsing and streamlined checkout.
 
 <img src="https://github.com/tetrotibo/wogamifx/blob/main/screenshots/a_site_01.png?raw=true" style="max-width: 100%;" alt="Homepage Screenshot">
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gdxaab02OLQ">
     <img src="https://img.shields.io/badge/Watch%20Demo%20Video-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="CHECK WEBSITE VIDEO DEMO">
   </a>
 </p>
-
 ## Library Presentation
 
 From immersive onboard acrobatic tricks and thermal flights to energetic take-offs, pristine wing & gear foley, natural wind flows and designed electronic devices, this library features an extensive palette of cinematic paragliding sound effects and atmospheres.
