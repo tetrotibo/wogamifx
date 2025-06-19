@@ -44,3 +44,7 @@ Whether you are sound designing for films, documentaries, video games or social 
 - Custom homepage and product page layouts
 - Integrated cart and checkout flow
 - Embedded sound previews and branding assets
+
+## Licensing
+Website, screenshots, and audio and video demos are all original works and protected.
+See LICENCE.txt for details regarding code and media usage rights.
