@@ -6,7 +6,7 @@ Being a professional sound engineer and a paragliding pilot, I've sound designed
 
 Built using Shopify and customized with EComposer, it combines responsive design, optimized browsing and streamlined checkout.
 
-<img src="https://github.com/tetrotibo/wogamifx/blob/main/screenshots/a_site_01.png?raw=true" style="max-width: 100%;" alt="Homepage Screenshot">
+<img src="https://github.com/tetrotibo/wogamifx/blob/main/screenshots/a_site_01.png?raw=true" style="max-width: 980px;" alt="Homepage Screenshot">
 
 ## Library Presentation
 
