@@ -37,8 +37,8 @@ Whether you are sound designing for films, documentaries, video games or social 
   
 ## Library Audio Demos
 
-- The Complete Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-complete-paragliding-sound-library
-- The Essential Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-essential-paragliding-library
+- The Complete Paragliding Sound Effects Library: https://on.soundcloud.com/zWFVJ1NFrsA6Tlqv0N
+- The Essential Paragliding Sound Effects Library: https://on.soundcloud.com/9iOXBK2cVC58kHlciM
 
 ## Built With
 
