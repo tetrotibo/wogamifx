@@ -6,6 +6,22 @@ Being a sound designer and a paragliding pilot, I've edited a few paragliding do
 
 Built using Shopify and customized with EComposer, it combines responsive design, optimized browsing, and streamlined checkout.
 
+## Library Presentation
+
+From immersive onboard acrobatic tricks and thermal flights to energetic take-offs, pristine wing & gear foley, natural wind flows and designed electronic devices, this library features an extensive palette of cinematic paragliding sound effects and atmospheres.
+
+In this sound library, you will find 16 thrilling acrobatic tricks recorded in a breathtaking onboard POV, performed by the 4x Acro World Tour champion Théo de Blic. Infinity Tumbling, SAT, Mac Twist, Misty Flip, Helico and Joker are among the track list!
+
+But more than those sensational tricks, this collection explores the many aspects of the sport, high in the sky or on firm ground.
+
+We captured series of straight flight onboard sequences, including take-off, flight and landing, in pilot & wing POVs. Thermal flight onboard sequences were designed from scratch and separated in 4 stems for maximum editing flexibility: full mix, wind, variometer beeps and harness squeaks. 22 take-offs were captured in a close perspective, as well as ground handling foley and crowd atmospheres at launch sites.
+
+The library also features extensive wing & gear foley performed in two flavors: outdoor environment and recording studio. In this section, you will find full sequences and single actions of gear packing & unpacking, wing folding & unfolding, manipulations of harness, wing, risers, lines, straps, buckles, helmet, gloves, inner bag, tube bag and backpack.
+
+Electronic devices are key items in a pilot's kit. Based on the popular FlyMaster SD Series, we synthesized a whole collection of variometer beeps, alarms and melodies. We designed a walkie talkie and its voice prompts, beeps and white noise. Wind flows & gusts were recorded through an action cam's internal mics and in various non-formal setups for realistic and creative wind sound effects.
+
+Whether you are sound designing for films, documentaries, video games or social media, this collection will add punch and detail to your soundtrack!
+
 ## Video Demos
 - The Complete Paragliding Sound Effects Library: https://www.youtube.com/watch?v=caRWPf2Pi9c&t=1s
 - The Essential Paragliding Sound Effects Library: https://www.youtube.com/watch?v=gdxaab02OLQ
