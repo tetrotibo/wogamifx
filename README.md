@@ -10,7 +10,7 @@ Built using Shopify and customized with EComposer, it combines responsive design
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=gdxaab02OLQ">
-    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-darkblue?style=for-the-badge&logo=youtube&logoColor=white" alt="CHECK WEBSITE VIDEO DEMO">
+    <img src="https://img.shields.io/badge/CHECK%20WEBSITE%20VIDEO%20DEMO-5c7fa3?style=for-the-badge&logo=youtube&logoColor=white" alt="CHECK WEBSITE VIDEO DEMO">
   </a>
 </p>
 
