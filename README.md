@@ -8,6 +8,10 @@ Built using Shopify and customized with EComposer, it combines responsive design
 
 <img src="https://github.com/tetrotibo/wogamifx/blob/main/screenshots/a_site_01.png?raw=true" style="max-width: 100%;" alt="Homepage Screenshot">
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=gdxaab02OLQ">CHECK WEBSITE VIDEO DEMO</a>
+</div>
+
 ## Library Presentation
 
 From immersive onboard acrobatic tricks and thermal flights to energetic take-offs, pristine wing & gear foley, natural wind flows and designed electronic devices, this library features an extensive palette of cinematic paragliding sound effects and atmospheres.
@@ -31,10 +35,6 @@ Whether you are sound designing for films, documentaries, video games or social 
 ## Library Audio Demos
 - The Complete Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-complete-paragliding-sound-library
 - The Essential Paragliding Sound Effects Library: https://soundcloud.com/wogami-fx/sets/the-essential-paragliding-library
-
-## Website Video Demo
-
-xxx
 
 ## Built With
 
