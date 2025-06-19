@@ -46,5 +46,5 @@ Whether you are sound designing for films, documentaries, video games or social 
 - Embedded sound previews and branding assets
 
 ## Licensing
-Website, screenshots, and audio and video demos are all original works and protected.
+Website, screenshots, and audio and video demos are all original works and protected.\n
 See LICENCE.txt for details regarding code and media usage rights.
